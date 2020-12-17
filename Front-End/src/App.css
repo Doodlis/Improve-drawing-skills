@@ -1,0 +1,64 @@
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px
+}
+
+.name{
+  font-size: 80px;
+  font-weight: bold;
+  font-family: 'Brush Script MT', cursive;
+}
+
+.genericButton{
+  height: 120px;
+  width: 240px;
+  border-radius: 5px;
+  text-align: center;
+  font-size: 40px;
+  font-weight: bold;
+  margin: 30px;
+  cursor: pointer;
+}
+
+
+
+.button {
+  background-color: #764B92;
+  border: solid #43285D 5px;
+  padding-top: 60px;
+}
+
+.itemButton {
+  background-color: yellow;
+  border: solid #8B1465 5px;
+  animation-name: example;
+  animation-duration: 10s;
+  padding-top: 60px;
+}
+@keyframes example {
+  from {background-color: red;}
+  to {background-color: yellow;}
+}
+
+.imageButtons {
+  background-color: rgb(81, 253, 81);
+  border: solid darkgreen 5px;
+  height: 200px;
+
+}
+
+.result{
+  padding-top: 20px;
+  padding-bottom: 20px;
+  height: auto;
+  width: 260px;
+  background-color: #1172b3;
+  border: solid rgb(17, 6, 110) 5px;
+}
+
+.image-item{
+  width: 800px;
+  height: 800px;
+}
