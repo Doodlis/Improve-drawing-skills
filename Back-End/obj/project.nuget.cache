@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "dgSpecHash": "vshMIC5uctQYNz17o1wZCW0C5pu9k6iK9sxdpGByOf0s1HZUkKhLKyae8lkUEI+Jss/w438MeBX53Cu/IxF58g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\V\\Kornelija\\MVP\\Back-End\\Back-End.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\V\\.nuget\\packages\\awssdk.athena\\3.5.0.40\\awssdk.athena.3.5.0.40.nupkg.sha512",
+    "C:\\Users\\V\\.nuget\\packages\\awssdk.core\\3.5.1.49\\awssdk.core.3.5.1.49.nupkg.sha512",
+    "C:\\Users\\V\\.nuget\\packages\\awssdk.dynamodbv2\\3.5.4.8\\awssdk.dynamodbv2.3.5.4.8.nupkg.sha512",
+    "C:\\Users\\V\\.nuget\\packages\\awssdk.extensions.netcore.setup\\3.3.101\\awssdk.extensions.netcore.setup.3.3.101.nupkg.sha512",
+    "C:\\Users\\V\\.nuget\\packages\\awssdk.rekognition\\3.5.2.22\\awssdk.rekognition.3.5.2.22.nupkg.sha512",
+    "C:\\Users\\V\\.nuget\\packages\\awssdk.s3\\3.5.6.5\\awssdk.s3.3.5.6.5.nupkg.sha512",
+    "C:\\Users\\V\\.nuget\\packages\\microsoft.aspnetcore.http\\2.2.2\\microsoft.aspnetcore.http.2.2.2.nupkg.sha512",
+    "C:\\Users\\V\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\V\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
+    "C:\\Users\\V\\.nuget\\packages\\microsoft.aspnetcore.webutilities\\2.2.0\\microsoft.aspnetcore.webutilities.2.2.0.nupkg.sha512",
+    "C:\\Users\\V\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\2.0.0\\microsoft.extensions.configuration.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\V\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.2.0\\microsoft.extensions.dependencyinjection.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\V\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.0.0\\microsoft.extensions.logging.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\V\\.nuget\\packages\\microsoft.extensions.objectpool\\2.2.0\\microsoft.extensions.objectpool.2.2.0.nupkg.sha512",
+    "C:\\Users\\V\\.nuget\\packages\\microsoft.extensions.options\\2.2.0\\microsoft.extensions.options.2.2.0.nupkg.sha512",
+    "C:\\Users\\V\\.nuget\\packages\\microsoft.extensions.primitives\\2.2.0\\microsoft.extensions.primitives.2.2.0.nupkg.sha512",
+    "C:\\Users\\V\\.nuget\\packages\\microsoft.net.http.headers\\2.2.0\\microsoft.net.http.headers.2.2.0.nupkg.sha512",
+    "C:\\Users\\V\\.nuget\\packages\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",
+    "C:\\Users\\V\\.nuget\\packages\\system.componentmodel.annotations\\4.5.0\\system.componentmodel.annotations.4.5.0.nupkg.sha512",
+    "C:\\Users\\V\\.nuget\\packages\\system.memory\\4.5.1\\system.memory.4.5.1.nupkg.sha512",
+    "C:\\Users\\V\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.1\\system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512",
+    "C:\\Users\\V\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
